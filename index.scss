@@ -1,0 +1,93 @@
+body{
+    background-color: #8679a060;
+
+    header{
+        background-color: #3F2A56;
+        color: #FFF;
+        text-align: center;
+        padding: 1rem;
+    }
+    main{
+        margin-bottom: 80px;
+        --bs-gap: 1rem;
+    
+        h2{
+            padding: 1rem 0;
+        }
+    
+        .accordion-item{
+            margin-bottom: 1rem;
+    
+            .accordion-button{
+                background-color: #fff;
+            }
+    
+            button{
+                font-size: 1.45rem;
+            }
+    
+            .card{
+                border: none;
+    
+                .card-header{
+                    background-color: #271e3c;
+                    color: #FFFFFF;
+                }
+
+                .card-body{
+                    background-color: #e9dfff;
+
+                    ul{
+                        list-style: none;
+                        padding-left: 0;;
+
+                        li{
+                            padding: 0.3rem;
+                            font-size: 1.2rem;
+                            img{
+                                margin-right: 0.5rem;
+                            }
+
+                            a{
+                                color: black;
+                            }
+                        }
+                        li:nth-child(even){
+                            background-color: #dbcbfd;
+                        }
+                        
+                    }
+
+                    .nested{
+                        padding-left: 1.5rem;
+                    }
+                }
+            }
+        }
+        
+    }
+    footer{
+        background-color: #3F2A56;
+        color: #FFF;
+        position: fixed;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 0.7rem 5rem;
+
+        p{
+            font-size: 0.8rem;
+            margin-bottom: 0.2rem;
+        }
+        .legends{
+
+            img{
+                margin-right: 0.2rem;
+            }
+            span{
+                font-size: 0.8rem;
+            }
+        }
+    }
+}
