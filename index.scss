@@ -17,9 +17,17 @@ body{
     
         .accordion-item{
             margin-bottom: 1rem;
+            border-radius: 0 0 20px 0;
     
-            .accordion-button{
-                background-color: #fff;
+            .accordion-header{
+                box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+                border-radius: 0 0 20px 0;
+                .accordion-button{
+                    background-color: #fff;
+                    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+                    border-radius: 0 0 20px 0;
+                    font-weight: 500;
+                }
             }
     
             button{
@@ -91,3 +99,50 @@ body{
         }
     }
 }
+
+@media screen and (max-width: 1300px) {
+    header {
+      h1{
+          font-size: 1.5rem;
+      }
+    }
+
+    main{
+
+        h2{
+            font-size: 1.5rem;
+            padding: 0.5rem 0;
+            margin-bottom: 0;
+        }
+
+        .accordion-item{
+
+            .accordion-button{
+                font-size: 1.2rem;
+            }
+
+            .accordion-body{
+                h4{
+                    font-size: 1.2rem;
+                }
+                .card{
+                
+                    .card-body{
+                        padding: 0.5rem;
+                        ul{
+        
+                            li{
+                                font-size: 1rem;
+                                padding: 0.2rem;
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+
+        
+        
+    }
+  }
