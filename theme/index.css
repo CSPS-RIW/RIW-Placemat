@@ -1,5 +1,5 @@
 body {
-  background-color: #8679a060;
+  background-color: #ECCB9220;
 }
 body header {
   background-color: #3F2A56;
@@ -37,9 +37,11 @@ body main .accordion-item .card {
 body main .accordion-item .card .card-header {
   background-color: #271e3c;
   color: #FFFFFF;
+  border-radius: 10px 10px 0 0;
 }
 body main .accordion-item .card .card-body {
-  background-color: #e9dfff;
+  background-color: #edebfa80;
+  box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.2);
 }
 body main .accordion-item .card .card-body ul {
   list-style: none;
@@ -56,7 +58,7 @@ body main .accordion-item .card .card-body ul li a {
   color: black;
 }
 body main .accordion-item .card .card-body ul li:nth-child(even) {
-  background-color: #dbcbfd;
+  background-color: #cabde690;
 }
 body main .accordion-item .card .card-body .nested {
   padding-left: 1.5rem;

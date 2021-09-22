@@ -1,5 +1,5 @@
 body{
-    background-color: #8679a060;
+    background-color: #ECCB9220;
 
     header{
         background-color: #3F2A56;
@@ -40,10 +40,12 @@ body{
                 .card-header{
                     background-color: #271e3c;
                     color: #FFFFFF;
+                    border-radius: 10px 10px 0 0;
                 }
 
                 .card-body{
-                    background-color: #e9dfff;
+                    background-color: #edebfa80;
+                    box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.2);
 
                     ul{
                         list-style: none;
@@ -61,7 +63,7 @@ body{
                             }
                         }
                         li:nth-child(even){
-                            background-color: #dbcbfd;
+                            background-color: #cabde690;
                         }
                         
                     }
