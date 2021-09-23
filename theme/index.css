@@ -33,6 +33,11 @@ body main .accordion-item .accordion-header .accordion-button {
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
   border-radius: 0 0 20px 0;
   font-weight: 500;
+  max-height: 4rem;
+}
+body main .accordion-item .accordion-header .accordion-button .pillarIcon {
+  width: 2.5rem;
+  margin-right: 1rem;
 }
 body main .accordion-item button {
   font-size: 1.45rem;
