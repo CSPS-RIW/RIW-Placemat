@@ -103,8 +103,21 @@ body{
             }
         }
         p{
+            text-align: center;
             a{
                 color: black;
+            }
+        }
+        .canadaLogo{
+            display: flex;
+            justify-content: space-between;
+
+            .CSPS-written{
+                width: 15rem;
+            }
+
+            .canada-logo{
+                width: 6rem;
             }
         }
     }

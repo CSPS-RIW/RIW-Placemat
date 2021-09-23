@@ -74,8 +74,21 @@ body main .accordion-item .card .card-body ul li:nth-child(even) {
 body main .accordion-item .card .card-body .nested {
   padding-left: 1.5rem;
 }
+body main p {
+  text-align: center;
+}
 body main p a {
   color: black;
+}
+body main .canadaLogo {
+  display: flex;
+  justify-content: space-between;
+}
+body main .canadaLogo .CSPS-written {
+  width: 15rem;
+}
+body main .canadaLogo .canada-logo {
+  width: 6rem;
 }
 body footer {
   background-color: #3F2A56;
