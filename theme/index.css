@@ -5,7 +5,13 @@ body header {
   background-color: #3F2A56;
   color: #FFF;
   text-align: center;
-  padding: 1rem;
+  padding: 0.5rem 3rem;
+}
+body header .logos .logo1 img {
+  width: 15rem;
+}
+body header .logos .logo2 img {
+  width: 3rem;
 }
 body main {
   margin-bottom: 80px;
@@ -63,6 +69,9 @@ body main .accordion-item .card .card-body ul li:nth-child(even) {
 body main .accordion-item .card .card-body .nested {
   padding-left: 1.5rem;
 }
+body main p a {
+  color: black;
+}
 body footer {
   background-color: #3F2A56;
   color: #FFF;
@@ -71,16 +80,19 @@ body footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  padding: 0.7rem 5rem;
+  padding: 0.5rem 5rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 body footer p {
   font-size: 0.8rem;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0;
 }
-body footer .legends img {
-  margin-right: 0.2rem;
+body footer img {
+  margin-right: 0.4rem;
 }
-body footer .legends span {
+body footer span {
   font-size: 0.8rem;
 }
 
@@ -106,5 +118,21 @@ body footer .legends span {
   main .accordion-item .accordion-body .card .card-body ul li {
     font-size: 1rem;
     padding: 0.2rem;
+  }
+
+  footer {
+    padding: 0.3rem 4rem 0.5rem 4rem;
+  }
+  footer p {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+  }
+  footer span {
+    font-size: 0.7rem;
+  }
+}
+@media screen and (max-width: 800px) {
+  main {
+    margin-bottom: 150px !important;
   }
 }/*# sourceMappingURL=index.css.map */
