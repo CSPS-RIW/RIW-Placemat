@@ -113,7 +113,7 @@ body footer span {
   font-size: 1rem;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1300px) {
   header h1 {
     font-size: 1.5rem;
   }
@@ -139,9 +139,6 @@ body footer span {
 
   footer {
     padding: 0.3rem 2rem 0.5rem 2rem !important;
-    position: relative !important;
-    flex-direction: column;
-    align-items: flex-start !important;
   }
   footer p {
     font-size: 0.8rem !important;
@@ -149,5 +146,12 @@ body footer span {
   }
   footer span {
     font-size: 0.7rem !important;
+  }
+}
+@media screen and (max-width: 900px) {
+  footer {
+    position: relative !important;
+    flex-direction: column;
+    align-items: flex-start !important;
   }
 }/*# sourceMappingURL=index.css.map */

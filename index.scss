@@ -147,7 +147,7 @@ body{
     }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1300px) {
     header {
       h1{
           font-size: 1.5rem;
@@ -191,9 +191,9 @@ body{
     }
     footer{
         padding: 0.3rem 2rem 0.5rem 2rem !important;
-        position: relative !important;
-        flex-direction: column;
-        align-items: flex-start !important;
+        // position: relative !important;
+        // flex-direction: column;
+        // align-items: flex-start !important;
 
         p{
             font-size: 0.8rem !important;
@@ -205,4 +205,14 @@ body{
         
     }
   }
+  @media screen and (max-width: 900px) {
+      
+    footer{
+        // padding: 0.3rem 2rem 0.5rem 2rem !important;
+        position: relative !important;
+        flex-direction: column;
+        align-items: flex-start !important;
 
+        
+    }
+  }
