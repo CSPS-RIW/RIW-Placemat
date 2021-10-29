@@ -41,6 +41,10 @@ body{
             margin-bottom: 1rem;
             border-radius: 0 0 20px 0;
     
+            :focus-visible{
+                border: 2.5px solid black;
+            }
+
             .accordion-header{
                 box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
                 border-radius: 0 0 20px 0;
