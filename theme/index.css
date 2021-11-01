@@ -13,6 +13,13 @@ body header .logos .logo1 img {
 body header .logos .logo2 img {
   width: 3rem;
 }
+body header .logos .logo2 p {
+  margin-bottom: 0;
+}
+body header .logos .logo2 p a {
+  color: #FFF;
+  font-size: 1rem;
+}
 body main {
   margin-bottom: 80px;
   --bs-gap: 1rem;
