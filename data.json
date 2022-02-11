@@ -1,0 +1,95 @@
+{
+    "data":[
+        {
+            "Accessibility":[
+                {
+                    "icon":"",
+                    "Classroom Courses":[
+                        {
+                            "course-title": "",
+                            "course-code": "",
+                            "course-link": ""
+                        }
+                    ]
+                },
+                {
+                    "icon":"",
+                    "Job Aids":[
+                        {
+                            "course-title": "",
+                            "course-code": "",
+                            "course-link": ""
+                        }
+                    ]
+                },
+                {
+                    "icon":"",
+                    "Online Self-Paced":[
+                        {
+                            "course-title": "",
+                            "course-code": "",
+                            "course-link": ""
+                        },
+                        {
+                            "course-title": "",
+                            "course-code": "",
+                            "course-link": ""
+                        },
+                        {
+                            "course-title": "",
+                            "course-code": "",
+                            "course-link": ""
+                        }
+                    ]
+                },
+                {
+                    "icon":"",
+                    "Videos":[
+                        
+                    ]
+                },
+                {
+                    "icon":"",
+                    "Virtual Classroom Course":[
+                        {
+                            "course-title": "",
+                            "course-code": "",
+                            "course-link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Anti-Racism":[
+
+            ]
+        },
+        {
+            "Diversity and Inclusion Foundation":[
+
+            ]
+        },
+        {
+            "Gender-Based Analysis Plus":[
+
+            ]
+        },
+        {
+            "Healthy Workplaces":[
+
+            ]
+        },
+        {
+            "LGBTQ2+ Inclusion":[
+
+            ]
+        },
+        {
+            "Mental Health":[
+
+            ]
+        }
+        
+    ]
+}
