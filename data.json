@@ -6,9 +6,11 @@
                     "icon":"",
                     "Classroom Courses":[
                         {
-                            "course-title": "",
-                            "course-code": "",
-                            "course-link": ""
+                            "course-title": "Disability Management: Application and Cases (coming soon)",
+                            "course-code": "H227",
+                            "course-link": "",
+                            "content-provider": "",
+                            "content-provider-icon": "images/CSPS.svg"
                         }
                     ]
                 },
@@ -17,8 +19,10 @@
                     "Job Aids":[
                         {
                             "course-title": "",
-                            "course-code": "",
-                            "course-link": ""
+                            "course-code": "Planning Accessible Virtual Events",
+                            "course-link": "https://www.csps-efpc.gc.ca/Tools/jobaids/access-virtual-events-eng.aspx",
+                            "content-provider": "Canada School of Public Service",
+                            "content-provider-icon": "images/CSPS.svg"
                         }
                     ]
                 },
@@ -26,19 +30,25 @@
                     "icon":"",
                     "Online Self-Paced":[
                         {
-                            "course-title": "",
-                            "course-code": "",
-                            "course-link": ""
+                            "course-title": "Fundamentals of Disability and Wellness Management (coming soon)",
+                            "course-code": "H226",
+                            "course-link": "",
+                            "content-provider": "",
+                            "content-provider-icon": "images/CSPS.svg"
                         },
                         {
-                            "course-title": "",
-                            "course-code": "",
-                            "course-link": ""
+                            "course-title": "Making Your Services Accessible for People with Communication Disabilities",
+                            "course-code": "INC114",
+                            "course-link": "https://courses.cdacanada.com/courses/making-your-services-accessible-for-people-with-communication-disabilities/",
+                            "content-provider": "Other Government Orgabization",
+                            "content-provider-icon": "images/OGO.svg"
                         },
                         {
-                            "course-title": "",
-                            "course-code": "",
-                            "course-link": ""
+                            "course-title": "Disability Inclusion: Identifying and Eliminating Barriers (coming soon)",
+                            "course-code": "INC115",
+                            "course-link": "",
+                            "content-provider": "",
+                            "content-provider-icon": "images/CSPS.svg"
                         }
                     ]
                 },
@@ -52,8 +62,8 @@
                     "icon":"",
                     "Virtual Classroom Course":[
                         {
-                            "course-title": "",
-                            "course-code": "",
+                            "course-title": "Disability Management: Application and Cases, Virtual (coming soon)",
+                            "course-code": "H227",
                             "course-link": ""
                         }
                     ]
